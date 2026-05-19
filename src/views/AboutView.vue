@@ -22,7 +22,7 @@
         </div>
 
         <div class="md:col-span-7 md:pl-gutter mt-12 md:mt-0">
-          <SectionLabel>Crafting Narratives</SectionLabel>
+          <SectionLabel>Profile</SectionLabel>
 
           <h1 class="font-display text-display-lg-mobile md:text-display-lg u-text mb-8 leading-tight">
             About me
