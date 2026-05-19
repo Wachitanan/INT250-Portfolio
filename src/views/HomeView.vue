@@ -3,7 +3,7 @@
 
     <section class="min-h-[819px] flex flex-col justify-center px-margin-mobile md:px-margin-desktop max-w-container-max mx-auto py-section-gap">
       <div style="max-width: 900px;">
-        <SectionLabel>Available for freelance</SectionLabel>
+        <SectionLabel>Portfolio</SectionLabel>
 
         <h1 class="font-display text-display-lg-mobile md:text-display-lg u-text mb-gutter leading-tight">
           พื้นที่รวบรวมผลงาน<br class="hidden lg:block" />
