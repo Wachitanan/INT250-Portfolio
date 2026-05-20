@@ -12,7 +12,7 @@
 
         <div class="flex flex-col md:flex-row gap-gutter mt-12">
           <button class="btn-solid" @click="scrollToWork">View My Work</button>
-          <RouterLink to="/about" class="btn-ghost">The Process</RouterLink>
+          <RouterLink to="/about" class="btn-ghost">Profile</RouterLink>
         </div>
       </div>
     </section>
