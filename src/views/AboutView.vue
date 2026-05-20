@@ -123,6 +123,6 @@ const skills = SKILLS
 
 const stats = [
   { value: '20', label: 'Years Old.' },
-  { value: 'IT30', label: 'KNUTT' },
+  { value: 'IT30', label: 'KMUTT' },
 ]
 </script>
